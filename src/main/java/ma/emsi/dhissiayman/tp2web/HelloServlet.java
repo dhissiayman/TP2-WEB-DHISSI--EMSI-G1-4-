@@ -1,4 +1,4 @@
-package ma.emsi.dhissiayman.tp3.tp3dhissi;
+package ma.emsi.dhissiayman.tp3;
 
 import java.io.*;
 
