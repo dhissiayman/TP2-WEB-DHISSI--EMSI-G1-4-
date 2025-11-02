@@ -1,4 +1,4 @@
-package ma.emsi.dhissiayman.tp3.llm;
+package ma.emsi.dhissiayman.tp2.llm;
 
 
 import dev.langchain4j.memory.ChatMemory;
@@ -8,7 +8,7 @@ import dev.langchain4j.model.googleai.GoogleAiGeminiChatModel;
 import dev.langchain4j.data.message.SystemMessage;
 import dev.langchain4j.service.AiServices;
 import jakarta.enterprise.context.Dependent;
-import ma.emsi.dhissiayman.tp3.assistant.Assistant;
+import ma.emsi.dhissiayman.tp2.assistant.Assistant;
 
 @Dependent
 public class LlmClient implements java.io.Serializable {

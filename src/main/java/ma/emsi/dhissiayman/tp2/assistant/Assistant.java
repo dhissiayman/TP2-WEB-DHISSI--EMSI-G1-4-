@@ -1,4 +1,4 @@
-package ma.emsi.dhissiayman.tp3.assistant;
+package ma.emsi.dhissiayman.tp2.assistant;
 
 
 public interface Assistant {
